@@ -5,6 +5,7 @@ img {
     border-width: 10px;
     border-style: solid;
     border-color: olive;
+    margin: auto;
 }
 h1 {
     color: black;
