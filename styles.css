@@ -1,0 +1,8 @@
+* {
+    margin:0;
+}
+img {
+    border-width: 10px;
+    border-style: solid;
+    border-color: olive;
+}
